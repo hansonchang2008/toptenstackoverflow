@@ -2,7 +2,7 @@ Stackoverflow Top Ten Program
 
 Introduction:
   It shows the information of top ten newest && voted Android related questions.
-  The program is written in Python 3.6, Windows 10
+  The program is written in Python 3.6
   The packages required are lxml, pyquery, Flask, requests.
   You can install them with the requirements.txt file with pip.
 
