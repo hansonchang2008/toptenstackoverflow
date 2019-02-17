@@ -1,0 +1,4 @@
+lxml==4.2.5
+pyquery==1.4.0
+Flask==1.0.2
+requests==2.18.4
